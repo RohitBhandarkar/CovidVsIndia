@@ -36,7 +36,7 @@ The project uses the following datasets located in the assets folder:
 
 - Clone the repository:
 
-`git clone https://github.com/yourusername/Covid_Vs_India.git
+`git clone https://github.com/RohitBhandarkar/Covid_Vs_India.git
 cd Covid_Vs_India`
 
 - Install required packages:
@@ -140,4 +140,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Rohit Bhandarkar
 
-Project Link: https://github.com/yourusername/Covid_Vs_India
+Project Link: https://github.com/RohitBhandarkar/Covid_Vs_India
